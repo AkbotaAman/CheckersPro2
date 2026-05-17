@@ -4,7 +4,7 @@ CheckersPro is a modern web platform for playing checkers online.
 The goal is not just to create a basic checkers board, but to build a product that can grow into a real strategy gaming service.
 ## Product Vision
 
-CheckersPro is designed as a strategy-thinking platform where users can play, learn, compete, and personalize their experience.
+CheckersPro is designed as a strategy-thinking platform where users can play, learn, create and sell, compete, and personalize their experience.
 
 Instead of being only a simple board game, CheckersPro focuses on:
 
@@ -61,15 +61,15 @@ Examples:
 
 This creates a psychological profile system that makes the game more personal and memorable.
 
-### 4. City Identity and Leaderboards
+### 4. Location Identity and Leaderboards
 
-CheckersPro will include city-based rankings.
+CheckersPro will include location-based rankings.
 
 Example:
 
-> Top Strategic Thinkers in Almaty
+> Top Strategic Thinkers in New York, New York, United Stated of America
 
-This adds a local competitive identity and makes the leaderboard more engaging.
+This adds a local, regional and global competitive identity and makes the leaderboard more engaging.
 
 ### 5. Certificates
 
@@ -83,17 +83,17 @@ Examples:
 - Long-Term Planner
 - Strategic Thinker
 
-Certificates can be shared as proof of progress.
+Certificates can be shared as proof of progress and added as a supportive for user's Linkedin portfolio connected by API.
 
 ### 6. Custom Game Creator
 
-Users will be able to create their own checkers-based games with AI.
+Users will be able to create their own checkers-based games describing it to AI.
 
-The user can describe custom rules, and the platform will help generate a new game mode using the same board.
+The user can describe custom rules, and the platform will help generate a new game mode using the same board. In further future - more non board games will be accessible to make. So users can later earn money from the amount of users using their game.
 
 Example:
 
-> I want pieces to move diagonally, but after a capture they can jump again.
+> I want pieces to move only to the front side etc.
 
 ### 7. Design Creator
 
@@ -106,13 +106,13 @@ Planned options:
 - themes
 - visual effects
 
-This can later become part of a creator marketplace.
+This can later become part of a creator marketplace. So users can sell their designs.
 
 ### 8. Monetization Without Ads
 
-CheckersPro will not rely on ads.
+CheckersPro will not rely on ads because almost all of other checkers apps rely on that and a lot of users are complaining about that, which reduces the user interest.
 
-Possible premium features:
+Instead, there will be possible premium features:
 
 - deeper AI analysis
 - advanced puzzles
@@ -132,16 +132,17 @@ It helps users:
 - evaluate risk
 - think ahead
 - learn from mistakes
-- compete socially
-- improve creativity by building own game rules and creating own designs with a possibily to sell
+- compete and train, which later can be certified and added to their portfolio
+- improve creativity by building own game rules and creating own designs
+- sell own designs and games
 
 ## Future Goal
 
-The long-term goal is to make CheckersPro not only an online checkers game, but a full strategy learning and competition platform.
+The long-term goal is to make CheckersPro not only an online checkers game, but a full strategy learning, competition and marketplace platform that is not irritating users with adds.
 
 ## Current Version
 
-This is a multiplayer checkers game built using Node.js (Express.js) for the backend and HTML, CSS, Javascript for the frontend and Socket.IO for real-time communication. It allows players to play checkers with others in real-time.
+Right now, it is a multiplayer checkers game built using Node.js (Express.js) for the backend and HTML, CSS, Javascript for the frontend and Socket.IO for real-time communication. It allows players to play checkers with others in real-time.
 
 ## Current Features
 
