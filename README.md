@@ -1,1 +1,0 @@
-# CheckersPro2
